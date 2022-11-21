@@ -126,11 +126,11 @@ public class Project {
 
     public static void main(String[] args) {
         int m = 10;
-        G();
-        TTaB();
-        TD();
-        CA();
-        ND();
+        //G();
+        //TTaB();
+        //TD();
+        //CA();
+        //ND();
     }
 
 }
